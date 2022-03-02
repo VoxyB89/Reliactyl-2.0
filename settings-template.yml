@@ -3,7 +3,7 @@
 # Keep in mind decimals will not work. MySQL rounds them up.
 
 website:
-  port: 4440 # The port you want Dashactyl to run on.
+  port: 4440 # The port you want Reliactyl to run on.
   secret: "Enter your session password here." # Make this very secure and complicated.
   secure: false # This option requires https.
 
