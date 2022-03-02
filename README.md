@@ -22,6 +22,8 @@
 `sudo apt install git`<br>
 `curl -fsSL https://deb.nodesource.com/setup_14.x | sudo bash -`<br>
 `sudo apt install nodejs`<br>
+`sudo apt install mariadb-server`<br>
+`sudo mysql_secure_installation`<br>
 `npm -v`<br>
 `git clone https://github.com/Reliactyl/Reliactyl.git`<br>
 `cd Reliactyl`<br>
