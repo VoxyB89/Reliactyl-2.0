@@ -1,6 +1,8 @@
 # Reliactyl 2.0
 
 ![Reliactyl](https://media.discordapp.net/attachments/941503241374543922/948541331272265758/1646220259907.png?width=960&height=539)<br>
+![Reliactyl](https://user-images.githubusercontent.com/97802077/156374954-ef331a33-8743-456a-866a-d314c4d014a4.png)
+
 
 <h1>Features</h1>
 - Allows users to split resources throughout multiple servers on the Pterodactyl Panel, and uses a Discord OAuth2 as a login system(updated).<br>
