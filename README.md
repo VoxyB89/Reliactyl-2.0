@@ -22,12 +22,12 @@
 
 `sudo apt update && sudo apt upgrade`<br>
 `sudo apt install git`<br>
-`curl -fsSL https://deb.nodesource.com/setup_14.x | sudo bash -`<br>
+`curl -fsSL https://deb.nodesource.com/setup_20.x | sudo bash -`<br>
 `sudo apt install nodejs`<br>
 `sudo apt install mariadb-server`<br>
 `sudo mysql_secure_installation`<br>
 `npm -v`<br>
-`git clone https://github.com/Reliactyl/Reliactyl.git`<br>
+`git clone https://github.com/Ghostload74/Reliactyl.git`<br>
 `cd Reliactyl`<br>
 `cp settings-template.yml settings.yml` <br>
 `sudo nano settings.yml` and type all require settings<br>
